@@ -71,13 +71,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mattynb/Mattynb/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
