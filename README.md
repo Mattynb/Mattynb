@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is ... My name is ... chicka-chicka slim shady</h3>
+<h2 align="left">Hi 👋! My name is ... My name is ... chicka-chicka slim shady</h2>
 
 ###
 
